@@ -2,7 +2,7 @@
 # LibConnect
 
 ### Especificações:
-
+a
 Um API RESTFUL de uma biblioteca de livros feita em Node.JS integrada a um banco de dados NOSQL de mongoDB em nuvem.
 
 > O que é rest? Rest é a representação de estado de transferência onde representa um padrão para API's web com protocolo HTTP.
