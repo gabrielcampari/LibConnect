@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LibConnect
 
 ### Especificações:
