@@ -71,7 +71,6 @@ Assim se estabelecendo uma conexão com o banco de dados e a API através do dbC
 
 Após isso sempre que iniciar o `npm run dev`, o Servidor estará online e a conexão será estabelecida assim estando pronto para operação!
 
-=======
 # LibConnect
 
 ### This is a API-Restuful made in nodeJS, with a mongo data base
