@@ -48,7 +48,7 @@ npm install mongodb
 
 Será liberado um caminho para integração do banco e você deverá substituir a senha do admin
 
-/*mongodb+srv://admin:uscs2024@cluster0.9ovlrlr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://admin:uscs2024@cluster0.9ovlrlr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 Sendo os dados: 
 
@@ -59,7 +59,7 @@ senha: uscs2024
 
 Com o ID do project: 665b630d294da13b7573479d
 
-Um IP de: 0.0.0.0/0 foi inserido para obter acesso de qualquer lugar ao banco de dados.*/
+Um IP de: 0.0.0.0/0 foi inserido para obter acesso de qualquer lugar ao banco de dados.
 
 Após isso deve se instalar: 
 
